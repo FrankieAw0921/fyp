@@ -1,0 +1,44 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .env
+#	new file:   .gitignore
+#	new file:   FYP.zip
+#	new file:   eslint.config.js
+#	new file:   index.html
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   postcss.config.js
+#	new file:   server.js
+#	new file:   src/App.tsx
+#	new file:   src/contexts/AuthContext.tsx
+#	new file:   src/index.css
+#	new file:   src/lib/constants.ts
+#	new file:   src/lib/supabase.ts
+#	new file:   src/logo.png
+#	new file:   src/main.tsx
+#	new file:   src/pages/AboutUs.tsx
+#	new file:   src/pages/AdminDashboard.tsx
+#	new file:   src/pages/ContactUs.tsx
+#	new file:   src/pages/Dashboard.tsx
+#	new file:   src/pages/EnrollTOTP.tsx
+#	new file:   src/pages/Footer.tsx
+#	new file:   src/pages/Homepage.tsx
+#	new file:   src/pages/Login.tsx
+#	new file:   src/pages/NavBar.tsx
+#	new file:   src/pages/Signup.tsx
+#	new file:   src/vite-env.d.ts
+#	new file:   supabase/migrations/20250308081523_mute_king.sql
+#	new file:   supabase/migrations/20250308082156_fragrant_paper.sql
+#	new file:   tailwind.config.js
+#	new file:   tsconfig.app.json
+#	new file:   tsconfig.json
+#	new file:   tsconfig.node.json
+#	new file:   vite.config.ts
+#
